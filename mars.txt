@@ -1,2 +1,3 @@
-everything is good.
+Added line 1: everything is good.
+Added line 2: This is line two
 
